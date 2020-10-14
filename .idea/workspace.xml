@@ -16,7 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172dbb1c-8ca6-4055-80be-4ed812f5bdc3" name="Default Changelist" comment="-add" />
+    <list default="true" id="172dbb1c-8ca6-4055-80be-4ed812f5bdc3" name="Default Changelist" comment="-add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +84,7 @@
       <workItem from="1602645806212" duration="527000" />
       <workItem from="1602646413637" duration="2326000" />
       <workItem from="1602663875871" duration="1287000" />
+      <workItem from="1602665268888" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602664715592</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602665067842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-add">
+      <created>1602665571470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602665571470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,14 +151,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602665163208" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1602667516898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602667516898" />
     <state x="631" y="119" key="RollbackChangesDialog" timestamp="1602470785288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="631" y="119" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602470785288" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602665076389">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602665576208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602665076389" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602665576208" />
     <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602233303085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
