@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    table{
+        width: 120%;
+    }
+</style>
+<body>
+
+<script>
+ let inputLy;
+ let inputHoa;
+ let inputSinh;
+ inputLy = prompt("Điểm Lý");
+ inputHoa = prompt("ĐIểm Hóa");
+ inputSinh = prompt("ĐIểm Sinh");
+ let Ly = parseInt(inputLy);
+ let Hoa = parseInt(inputHoa);
+ let Sinh = parseInt(inputSinh);
+ let sum= Ly + Hoa + Sinh
+ document.write("Tổng là:" + sum);
+ document.write("<br>")
+ let avg= sum/3
+ document.write("Trung bình cộng là:" + avg);
+</script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chuyển đổi tiền tệ</title>
+</head>
+<style>
+    table{
+        width: 500px;
+    }
+    table,td,tr{
+        border: 1px solid black;
+        border-style: hidden;
+        text-indent: each-line;
+    }
+
+</style>
+<body>
+<div>
+    <table>
+        <tr>
+            <td style="text-align: center"><b>Amount</b></td>
+            <td style="text-align: center"><b>From Currency</b></td>
+            <td style="text-align: center"><b>To Currency</b></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><input type="text" id="amount"></td>
+            <td style="text-align: center">   <select id="to">
+                <option value="vnd" >Việt Nam</option>
+                <option value="usd">Mỹ</option>
+            </select>
+            </td>
+            <td style="text-align: center" > <select id="from" style="padding-right: 20px">
+                <option value="usd">usd    </option>
+                <option value="vnd">vnd    </option>
+            </select>
+            </td>
+            <td style="text-align: center" >   <input  type="button" value="convert" onclick=convert() style=" background-color: #8e81ce;
+        color: white;">
+        </tr>
+        <tr>
+            <td colspan="4"><p id="result" style="color: blue"></p></td>
+
+        </tr>
+    </table>
+
+    <script>
+        var convert = function(){
+            var vndtousd = 23000;
+            var result = 0;
+            var el_to = document.getElementById('to').value;
+            var el_from = document.getElementById('from').value;
+            if(el_to === 'usd'){
+                if(el_from === 'vnd'){
+                    result = (document.getElementById('amount').value)*vndtousd;
+                }else result = (document.getElementById('amount').value);
+            }else if(el_to === 'vnd'){
+                if(el_from === 'usd'){
+                    result = (document.getElementById('amount').value)/vndtousd;
+                }else result = (document.getElementById('amount').value);
+            }
+            document.getElementById('result').innerHTML = "result :"+result+" VND";
+        }
+    </script>
+</div>
+</body>
+</html>
