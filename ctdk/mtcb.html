@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>maytinhcb</title>
+</head>
+<body>
+<label for="number1"></label><input type="number" id="number1">
+<label for="number2"></label><input type="number" id="number2">
+<button onclick="calculator('cong')">+</button>
+<button onclick="calculator('tru')">-</button>
+<button onclick="calculator('nhan')">X</button>
+<button onclick="calculator('chia')">/</button>
+<p id="result">0</p>
+<script>
+    function calculator(operator) {
+        let number1 = parseFloat(document.getElementById('number1').value);
+        let number2 = parseFloat(document.getElementById('number2').value);
+        let result = "";
+
+        switch (operator) {
+            case 'cong':
+                result = number1 + number2;
+                break;
+            case 'tru':
+                result = number1 - number2;
+                break;
+            case 'nhan':
+                result = number1 * number2;
+                break;
+            case 'chia':
+                result = number1 / number2;
+                break;
+        }
+
+        document.getElementById('result').innerHTML = 'Ket qua phep tinh la: '+result;
+    }
+
+</script>
+</body>
+</html>
