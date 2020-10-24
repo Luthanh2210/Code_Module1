@@ -17,7 +17,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172dbb1c-8ca6-4055-80be-4ed812f5bdc3" name="Default Changelist" comment="-add">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/Liet_ke_SNT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/SNT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop/tamgiacsao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/[Bai_tap]_Luyen_tap_mang_01/bt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/ktrSNT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/tu_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien_toan_tu/Chu_vi_hinh_tron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien_toan_tu/Dien_tich_hinh_tron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien_toan_tu/bong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien_toan_tu/nhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien_toan_tu/tic tac toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctdk/good-fast-cheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-mobile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/den_pin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/funny-circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/funny-circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/in_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/product-management.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/thuc_hanh1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doi_tuong/thuc_hanh2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/bt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Table/bt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/bt3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Table/market_survey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctdk/thang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ctdk/thang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/bong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/image/bongda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bien_toan_tu/image/bongda.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +57,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -48,8 +78,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,13 +90,43 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code_Module_1\doi_tuong" />
+      <recent name="E:\Code_Module_1\git-html" />
       <recent name="E:\Code_Module_1\ctdk" />
       <recent name="E:\Code_Module_1\event\image" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.THU.js">
+    <configuration name="as.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sas.html/as.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="den_pin.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tic tac toe.html/doi_tuong/den_pin.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="in_tu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tic tac toe.html/in_tu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="THU.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/THU.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="funny_circle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/funny_circle.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.THU.js" />
+        <item itemvalue="JavaScript Debug.den_pin.html" />
+        <item itemvalue="JavaScript Debug.in_tu.html" />
+        <item itemvalue="Node.js.funny_circle.js" />
+        <item itemvalue="JavaScript Debug.as.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,6 +147,35 @@
       <workItem from="1602646413637" duration="2326000" />
       <workItem from="1602663875871" duration="1287000" />
       <workItem from="1602665268888" duration="1898000" />
+      <workItem from="1602667519716" duration="745000" />
+      <workItem from="1602732596120" duration="7000" />
+      <workItem from="1602732613801" duration="2668000" />
+      <workItem from="1602751376120" duration="214000" />
+      <workItem from="1602752007095" duration="5817000" />
+      <workItem from="1602810996549" duration="1486000" />
+      <workItem from="1602812527351" duration="118000" />
+      <workItem from="1602812714623" duration="6439000" />
+      <workItem from="1602837828817" duration="1242000" />
+      <workItem from="1602843288633" duration="285000" />
+      <workItem from="1602856095322" duration="804000" />
+      <workItem from="1603070941356" duration="6948000" />
+      <workItem from="1603098154670" duration="5360000" />
+      <workItem from="1603103602952" duration="4000" />
+      <workItem from="1603156695608" duration="4107000" />
+      <workItem from="1603162631040" duration="7437000" />
+      <workItem from="1603182226236" duration="165000" />
+      <workItem from="1603182403156" duration="3025000" />
+      <workItem from="1603243495215" duration="24000" />
+      <workItem from="1603243568903" duration="2000" />
+      <workItem from="1603244738823" duration="6526000" />
+      <workItem from="1603252377661" duration="7208000" />
+      <workItem from="1603329479895" duration="36000" />
+      <workItem from="1603329562688" duration="3600000" />
+      <workItem from="1603334445137" duration="3440000" />
+      <workItem from="1603338270822" duration="2996000" />
+      <workItem from="1603415738473" duration="4083000" />
+      <workItem from="1603425438385" duration="9733000" />
+      <workItem from="1603508023410" duration="501000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602664715592</created>
@@ -107,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602665571470</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-add">
+      <created>1602667654737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602667654737</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,37 +241,76 @@
     <option name="LAST_COMMIT_MESSAGE" value="-add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602664999850">
+    <state x="395" y="93" key="#Inspections" timestamp="1603429202489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602664999850" />
+    <state x="395" y="93" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1603429202489" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603162646103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603162646103" />
+    <state x="520" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603417136671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1603417136671" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1602665163208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602665163208" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1602667516898">
+    <state x="549" y="170" width="430" height="484" key="FileChooserDialogImpl" timestamp="1602812465071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602667516898" />
+    <state x="549" y="170" width="430" height="484" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602812465071" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1603436600311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603436600311" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1603436600311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603436600311" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1603436600311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603436600311" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1603436600311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603436600311" />
     <state x="631" y="119" key="RollbackChangesDialog" timestamp="1602470785288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="631" y="119" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602470785288" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602665576208">
+    <state x="288" y="117" key="SettingsEditor" timestamp="1603417078717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602665576208" />
+    <state x="288" y="117" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603417078717" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602667656385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602667656385" />
     <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602233303085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602233303085" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1602640248206">
+    <state x="426" y="187" key="run.anything.popup" timestamp="1603435608043">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602640248206" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602475259698">
+    <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603435608043" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603416332980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602475259698" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603416332980" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$USER_HOME$/Desktop/demo-array-2-main/caro-game.html</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

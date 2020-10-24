@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ điển</title>
+</head>
+<body>
+<label for="key"></label><input id="key" type="text" placeholder="Nhập từ tiếng anh cần tìm kiếm">
+<button onclick="search()">Search</button>
+
+<script>
+    let vietnamese = [
+        "Màu đỏ",
+        "màu xanh biển",
+        "máu xanh lá",
+        "màu vàng",
+        "màu tím",
+        "màu đen",
+        "màu trắng",
+    ];
+    let english = ["red", "blue", "green", "yellow", "purple", "black", "white"];
+
+    function search() {
+        let key = document.getElementById("key").value;
+        let result = english.indexOf(key);
+        if (result !== -1 ) {
+            alert(vietnamese[result]);
+        } else {
+            alert("Word not found");
+        }
+    }
+</script>
+</body>
+</html>
