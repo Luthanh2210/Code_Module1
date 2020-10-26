@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JSAnimation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/array/[Bai_tap]_Luyen_tap_mang_01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/demo-mobile" vcs="Git" />
   </component>
 </project>
