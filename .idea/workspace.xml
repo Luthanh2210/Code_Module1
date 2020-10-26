@@ -16,13 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172dbb1c-8ca6-4055-80be-4ed812f5bdc3" name="Default Changelist" comment="-bai_tap_mang1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="172dbb1c-8ca6-4055-80be-4ed812f5bdc3" name="Default Changelist" comment="-bai_tap_ham1">
+      <change afterPath="$PROJECT_DIR$/Canvas/BT-xay-dung-mo-ta-HCN/BT-xay-dung-mo-ta-HCN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Canvas/BT-xay-dung-mo-ta-HCN/BT-xay-dung-mo-ta-HCN.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSAnimation" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case_study/case.study.html" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/case.study.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-mobile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +29,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/array/[Bai_tap]_Luyen_tap_mang_01" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1idN1HsBh9slvoAjyW9zQwnAxaZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -161,7 +158,7 @@
       <workItem from="1603524542699" duration="559000" />
       <workItem from="1603674968077" duration="20000" />
       <workItem from="1603675000683" duration="2981000" />
-      <workItem from="1603678002525" duration="365000" />
+      <workItem from="1603678002525" duration="1803000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602664715592</created>
@@ -198,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603677778815</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-bai_tap_ham1">
+      <created>1603679269947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603679269947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +236,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="-add" />
     <MESSAGE value="-bai_tap_mang1" />
-    <option name="LAST_COMMIT_MESSAGE" value="-bai_tap_mang1" />
+    <MESSAGE value="-bai_tap_ham1" />
+    <option name="LAST_COMMIT_MESSAGE" value="-bai_tap_ham1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="93" key="#Inspections" timestamp="1603429202489">
@@ -331,10 +336,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="333" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1603678243802" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1603678254436">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1603679280064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603678254436" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603679280064" />
     <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603678024865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
